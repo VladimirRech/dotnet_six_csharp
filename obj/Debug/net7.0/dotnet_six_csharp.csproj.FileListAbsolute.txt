@@ -1,0 +1,15 @@
+/home/vladimir/git/dotnet_six_csharp/obj/Debug/net7.0/dotnet_six_csharp.csproj.AssemblyReference.cache
+/home/vladimir/git/dotnet_six_csharp/obj/Debug/net7.0/dotnet_six_csharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/vladimir/git/dotnet_six_csharp/obj/Debug/net7.0/dotnet_six_csharp.AssemblyInfoInputs.cache
+/home/vladimir/git/dotnet_six_csharp/obj/Debug/net7.0/dotnet_six_csharp.AssemblyInfo.cs
+/home/vladimir/git/dotnet_six_csharp/obj/Debug/net7.0/dotnet_six_csharp.csproj.CoreCompileInputs.cache
+/home/vladimir/git/dotnet_six_csharp/bin/Debug/net7.0/dotnet_six_csharp
+/home/vladimir/git/dotnet_six_csharp/bin/Debug/net7.0/dotnet_six_csharp.deps.json
+/home/vladimir/git/dotnet_six_csharp/bin/Debug/net7.0/dotnet_six_csharp.runtimeconfig.json
+/home/vladimir/git/dotnet_six_csharp/bin/Debug/net7.0/dotnet_six_csharp.dll
+/home/vladimir/git/dotnet_six_csharp/bin/Debug/net7.0/dotnet_six_csharp.pdb
+/home/vladimir/git/dotnet_six_csharp/obj/Debug/net7.0/dotnet_six_csharp.dll
+/home/vladimir/git/dotnet_six_csharp/obj/Debug/net7.0/refint/dotnet_six_csharp.dll
+/home/vladimir/git/dotnet_six_csharp/obj/Debug/net7.0/dotnet_six_csharp.pdb
+/home/vladimir/git/dotnet_six_csharp/obj/Debug/net7.0/dotnet_six_csharp.genruntimeconfig.cache
+/home/vladimir/git/dotnet_six_csharp/obj/Debug/net7.0/ref/dotnet_six_csharp.dll
